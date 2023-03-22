@@ -1,0 +1,9 @@
+[package]
+name = "transmutation"
+version = "0.1.0"
+authors = ["Mohamed Diomande"]
+edition = "2018"
+
+[dependencies]
+clap = "3.0"
+tempfile = "3.2"
